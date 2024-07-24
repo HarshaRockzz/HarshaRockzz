@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsharockzz&label=Profile%20views&color=0e75b6&style=flat" alt="harsharockzz" /> </p>
 
-- 👨‍💻 Want to know more about me [Then click on this link](https://harshavardhan-mamidipaka.vercel.app/)
-
 - 💬 Ask me about ****MERN, AI/ML****
 
 - 📫 How to reach me **mamidipaka2003@gmail.com**
 
 - ⚡ Fun fact **"once I tried to debug a toaster, then I figured out that it just needed more bread!"**
+
+- 👨‍💻 Want to know more about me [Then click on this link](https://harshavardhan-mamidipaka.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
