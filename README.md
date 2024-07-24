@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsharockzz&label=Profile%20views&color=0e75b6&style=flat" alt="harsharockzz" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://harshavardhan-mamidipaka.vercel.app/](https://harshavardhan-mamidipaka.vercel.app/)
+- 👨‍💻 Want to know more about me [Then click on this link](https://harshavardhan-mamidipaka.vercel.app/)
 
 - 💬 Ask me about ****MERN, AI/ML****
 
