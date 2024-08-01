@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsharockzz&label=Profile%20views&color=0e75b6&style=flat" alt="harsharockzz" /> </p>
 
-- 💬 Ask me about ****MERN, AI/ML****
+- 💬 Ask me about ****MERN, AI/ML, DevOps and MLOps****
 
 - 📫 How to reach me **mamidipaka2003@gmail.com**
 
