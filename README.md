@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **mamidipaka2003@gmail.com**
 
-- ⚡ Fun fact **"once I tried to debug a toaster, then I figured out that it just needed more bread!"**
+- ⚡ Fun fact **"Training my AI to make dad jokes—results are still...in development!"**
 
 - 👨‍💻 Want to know more about me [Then click on this link](https://harshavardhan-mamidipaka.vercel.app/)
 
