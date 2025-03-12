@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshavardhan</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Full Stack, AI/ML  Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsharockzz&label=Profile%20views&color=0e75b6&style=flat" alt="harsharockzz" /> </p>
