@@ -1,39 +1,85 @@
-<!-- Animated Design Banner -->
-<br>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=120&lines=Welcome+To+My+Profile!+%F0%9F%9A%80;Full+Stack+%7C+AI%2FML+%7C+DevOps" alt="Welcome to my profile banner" />
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED HEADER BANNER                     -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Harshavardhan&fontColor=00f5d4&fontSize=72&fontAlignY=40&desc=Full%20Stack%20%E2%9A%A1%20AI%2FML%20%E2%9A%A1%20DevOps%20Engineer&descAlignY=62&descSize=22&animation=fadeIn&stroke=00f5d4&strokeWidth=2" width="100%" />
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    SOCIAL / PROFILE BADGES                    -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=HarshaRockzz&label=PROFILE+VIEWS&color=00f5d4&style=for-the-badge)](https://github.com/HarshaRockzz)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mamidipaka-harshavardhan/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00f5d4?style=for-the-badge&logo=vercel&logoColor=black)](https://harshavardhan-mamidipaka.vercel.app/)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamidipaka2003@gmail.com)
+
+<br/>
+
+<!-- Animated Typing Banner -->
+<a href="https://github.com/HarshaRockzz">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%F0%9F%9A%80+Architecting+Scalable+Systems;%F0%9F%A4%96+Building+the+Future+with+AI%2FML;%E2%9A%99%EF%B8%8F+MERN+%7C+DevOps+%7C+MLOps+Expert;%F0%9F%8C%90+Full+Stack+%7C+Cloud+Native+Engineer;%F0%9F%94%A5+Turning+Coffee+into+Production+Code" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- Animated pixel art separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 </div>
-<br>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                       ABOUT ME SECTION                        -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarshaRockzz&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Harshavardhan;Crafting+Scalable+Architectures+%E2%9A%99%EF%B8%8F;Building+the+Future+with+AI+%F0%9F%A4%96;MERN+%26+DevOps+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
+
+## 🌌 `whoami`
+
 </div>
 
-<br>
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
-<!-- Introduction Section -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="70%" valign="top">
-      <h2>👨‍💻 About Me</h2>
-      <ul>
-        <li>🔭 I’m currently working on cutting-edge <b>MERN, AI/ML, DevOps</b> and <b>MLOps</b> projects.</li>
-        <li>🌱 I’m mastering scalable architectures and diving deep into Machine Learning.</li>
-        <li>⚡ Fun fact: <i>"Training my AI to make dad jokes—results are still...in development!"</i></li>
-        <li>📫 How to reach me: <b><a href="mailto:mamidipaka2003@gmail.com">mamidipaka2003@gmail.com</a></b></li>
-        <li>🌐 Checkout my portfolio: <b><a href="https://harshavardhan-mamidipaka.vercel.app/">Portfolio Website</a></b></li>
-      </ul>
-    </td>
-    <td width="30%" valign="center" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="250" alt="Coding GIF" />
-    </td>
-  </tr>
+```yaml
+Name        : Harshavardhan Mamidipaka
+Role        : Full Stack | AI/ML | DevOps Engineer
+Location    : India 🇮🇳
+Status      : Building the future, one commit at a time
+Focus       :
+  - Scalable Microservices & Cloud Architecture
+  - AI/ML Systems & MLOps Pipelines
+  - MERN Stack & Next.js Applications
+  - Infrastructure as Code & CI/CD
+Currently   :
+  - 🔭 Working on cutting-edge AI/ML projects
+  - 🌱 Mastering LLMs, RAG & Agentic AI
+  - ⚡ Optimizing K8s clusters at scale
+Fun Fact    : "My AI learned to make dad jokes.
+               Evaluation metrics: Still pending."
+Contact     : mamidipaka2003@gmail.com
+```
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360" alt="Coding"/>
+
+</td>
+</tr>
 </table>
 
-<br clear="both">
-<br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<br/>
 
 <!-- Skill Badges Table -->
 <h2>🛠️ Technical Arsenal</h2>
