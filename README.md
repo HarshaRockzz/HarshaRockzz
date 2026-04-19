@@ -1,14 +1,6 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER BANNER                     -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Harshavardhan&fontColor=ffffff&fontSize=72&fontAlignY=40&desc=SDE%20%40%20Razorpay%20%E2%80%A2%20Ex-DRW%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20AI/ML%20%E2%80%A2%20Fintech%20at%20Scale&descAlignY=64&descSize=17&animation=twinkling&stroke=00f5d4&strokeWidth=1" width="100%" />
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    SOCIAL / PROFILE BADGES                    -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Harshavardhan&fontColor=ffffff&fontSize=72&fontAlignY=40&desc=Distributed%20Systems%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Fintech%20%E2%80%A2%20Backend%20Engineering&descAlignY=64&descSize=17&animation=twinkling&stroke=00f5d4&strokeWidth=1" width="100%" />
 
 <br/>
 
@@ -20,9 +12,8 @@
 
 <br/>
 
-<!-- Animated Typing Banner -->
 <a href="https://github.com/HarshaRockzz">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&repeat=true&width=750&height=60&lines=%F0%9F%9A%80+Building+Fintech+at+70M%2B+Transactions%2FMonth;%E2%9A%A1+Reduced+API+Latency+51s+%E2%86%92+14s+in+Production;%F0%9F%A4%96+LLM+Fine-Tuning+%7C+RAG+%7C+Distributed+Systems;%F0%9F%8F%A6+Ex-DRW+HFT+%7C+2.3ms+%E2%86%92+1.9ms+Execution+Latency;%F0%9F%94%A5+Go+%7C+Microservices+%7C+ML-Integrated+Backends" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&repeat=true&width=750&height=60&lines=%F0%9F%9A%80+Backend+Engineer+%7C+Distributed+Systems;%F0%9F%A4%96+LLM+Fine-Tuning+%7C+RAG+%7C+AI%2FML+Pipelines;%E2%9A%A1+Go+%7C+Python+%7C+Microservices+at+Scale;%F0%9F%94%A5+Event-Driven+Architectures+%7C+Kafka+%7C+Redis;%F0%9F%8F%A6+Fintech+%7C+HFT+%7C+ML-Integrated+Backends" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -33,9 +24,7 @@
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                       ABOUT ME SECTION                        -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
@@ -49,28 +38,23 @@
 
 ```yaml
 Name        : Harshavardhan Mamidipaka
-Role        : Software Engineer @ POP UPI (Razorpay)
 Location    : Bengaluru, India 🇮🇳
-Status      : Shipping at 70M+ transactions/month
 
-Current Work:
-  - Go microservices for fintech at scale
-  - ML-integrated backend systems
-  - Event-driven distributed architectures
+I Build     :
+  - Scalable backend systems & microservices
+  - ML-integrated distributed architectures
+  - Event-driven, high-throughput pipelines
+  - LLM / RAG / fine-tuned AI applications
 
-Past:
-  - DRW       → HFT latency optimization (2.3ms→1.9ms)
-  - DRDO–CAIR → TFX pipelines @ 5M+ records/day
-  - IIT Madras→ Robotics simulation research
+I Love      :
+  - Low-latency systems & performance tuning
+  - Clean APIs and well-designed abstractions
+  - Turning complex problems into simple code
+  - Writing about tech on Medium
 
-Key Wins:
-  - INR 64L+/month revenue via EMI platform
-  - 51s → 14s API latency (parallelization)
-  - 70M+ txns/month with 99.9% uptime
-  - LLaMA LoRA fine-tuning in production
-  
 Fun Fact    : "My AI learned to make dad jokes.
                Evaluation metrics: Still pending."
+
 Contact     : mamidipaka2003@gmail.com
 ```
 
@@ -89,8 +73,10 @@ Contact     : mamidipaka2003@gmail.com
 
 <br/>
 
-<!-- Skill Badges Table -->
-<h2 align="center">🛠️ Technical Arsenal</h2>
+---
+
+## 🛠️ Technical Arsenal
+
 <table border="0" cellpadding="10" cellspacing="5" width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -146,7 +132,7 @@ Contact     : mamidipaka2003@gmail.com
   <tr>
     <td width="50%" valign="top">
       <h3>☁️ Cloud & DevOps</h3>
-      <img src="https://img.shields.io/badge/AWS-15151A?style=flat&logo=amazonaws&logoColor=232F3E" />
+      <img src="https://img.shields.io/badge/AWS-15151A?style=flat&logo=amazonaws&logoColor=FF9900" />
       <img src="https://img.shields.io/badge/Docker-15151A?style=flat&logo=docker&logoColor=2496ED" />
       <img src="https://img.shields.io/badge/Kubernetes-15151A?style=flat&logo=kubernetes&logoColor=326CE5" />
       <img src="https://img.shields.io/badge/Terraform-15151A?style=flat&logo=terraform&logoColor=7B42BC" />
@@ -171,21 +157,26 @@ Contact     : mamidipaka2003@gmail.com
   </tr>
 </table>
 
-<br>
+<br/>
 
-<!-- GitHub Analytics -->
-<h2 align="center">📈 GitHub Analytics</h2>
-<br>
+---
+
+## 📈 GitHub Analytics
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarshaRockzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshaRockzz&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
-<br>
+<br/>
 
-<!-- Complete Contribution Snake -->
-<h2 align="center">🐍 Contribution Graph Snake</h2>
+
+---
+
+## 🐍 Contribution Graph
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshaRockzz/HarshaRockzz/output/github-contribution-grid-snake-dark.svg">
@@ -194,24 +185,35 @@ Contact     : mamidipaka2003@gmail.com
   </picture>
 </div>
 
-<!-- Animated Line -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=footer" width="100%"/>
-</p>
+<br/>
 
-<!-- Footer Connect -->
-<h2 align="center">🤝 Let's Connect</h2>
+---
+
+## 🤝 Let's Connect
+
 <div align="center">
   <a href="https://www.linkedin.com/in/mamidipaka-harshavardhan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://harshavardhan-mamidipaka.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+  &nbsp;
   <a href="mailto:mamidipaka2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;
+  <a href="https://medium.com/@mamidipaka2003">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" />
+  </a>
 </div>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=footer" width="100%"/>
+</p>
 
 <p align="center">
   <i>Made with ❤️ by Harshavardhan</i>
