@@ -4,7 +4,7 @@
 <!--                    ANIMATED HEADER BANNER                     -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Harshavardhan&fontColor=ffffff&fontSize=72&fontAlignY=40&desc=Full%20Stack%20%E2%9A%A1%20AI%2FML%20%E2%9A%A1%20DevOps%20Engineer&descAlignY=62&descSize=22&animation=twinkling&stroke=00f5d4&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Harshavardhan&fontColor=ffffff&fontSize=72&fontAlignY=40&desc=SDE%20%40%20Razorpay%20%E2%80%A2%20Ex-DRW%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20AI/ML%20%E2%80%A2%20Fintech%20at%20Scale&descAlignY=64&descSize=17&animation=twinkling&stroke=00f5d4&strokeWidth=1" width="100%" />
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                    SOCIAL / PROFILE BADGES                    -->
@@ -16,17 +16,17 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mamidipaka-harshavardhan/)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-00f5d4?style=for-the-badge&logo=vercel&logoColor=black)](https://harshavardhan-mamidipaka.vercel.app/)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamidipaka2003@gmail.com)
+[![Medium](https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mamidipaka2003)
 
 <br/>
 
 <!-- Animated Typing Banner -->
 <a href="https://github.com/HarshaRockzz">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%F0%9F%9A%80+Architecting+Scalable+Systems;%F0%9F%A4%96+Building+the+Future+with+AI%2FML;%E2%9A%99%EF%B8%8F+MERN+%7C+DevOps+%7C+MLOps+Expert;%F0%9F%8C%90+Full+Stack+%7C+Cloud+Native+Engineer;%F0%9F%94%A5+Turning+Coffee+into+Production+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&repeat=true&width=750&height=60&lines=%F0%9F%9A%80+Building+Fintech+at+70M%2B+Transactions%2FMonth;%E2%9A%A1+Reduced+API+Latency+51s+%E2%86%92+14s+in+Production;%F0%9F%A4%96+LLM+Fine-Tuning+%7C+RAG+%7C+Distributed+Systems;%F0%9F%8F%A6+Ex-DRW+HFT+%7C+2.3ms+%E2%86%92+1.9ms+Execution+Latency;%F0%9F%94%A5+Go+%7C+Microservices+%7C+ML-Integrated+Backends" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Animated pixel art separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
@@ -49,18 +49,26 @@
 
 ```yaml
 Name        : Harshavardhan Mamidipaka
-Role        : Full Stack | AI/ML | DevOps Engineer
-Location    : India 🇮🇳
-Status      : Building the future, one commit at a time
-Focus       :
-  - Scalable Microservices & Cloud Architecture
-  - AI/ML Systems & MLOps Pipelines
-  - MERN Stack & Next.js Applications
-  - Infrastructure as Code & CI/CD
-Currently   :
-  - 🔭 Working on cutting-edge AI/ML projects
-  - 🌱 Mastering LLMs, RAG & Agentic AI
-  - ⚡ Optimizing K8s clusters at scale
+Role        : Software Engineer @ POP UPI (Razorpay)
+Location    : Bengaluru, India 🇮🇳
+Status      : Shipping at 70M+ transactions/month
+
+Current Work:
+  - Go microservices for fintech at scale
+  - ML-integrated backend systems
+  - Event-driven distributed architectures
+
+Past:
+  - DRW       → HFT latency optimization (2.3ms→1.9ms)
+  - DRDO–CAIR → TFX pipelines @ 5M+ records/day
+  - IIT Madras→ Robotics simulation research
+
+Key Wins:
+  - INR 64L+/month revenue via EMI platform
+  - 51s → 14s API latency (parallelization)
+  - 70M+ txns/month with 99.9% uptime
+  - LLaMA LoRA fine-tuning in production
+  
 Fun Fact    : "My AI learned to make dad jokes.
                Evaluation metrics: Still pending."
 Contact     : mamidipaka2003@gmail.com
@@ -82,7 +90,7 @@ Contact     : mamidipaka2003@gmail.com
 <br/>
 
 <!-- Skill Badges Table -->
-<h2>🛠️ Technical Arsenal</h2>
+<h2 align="center">🛠️ Technical Arsenal</h2>
 <table border="0" cellpadding="10" cellspacing="5" width="100%">
   <tr>
     <td width="50%" valign="top">
