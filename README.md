@@ -1,7 +1,9 @@
-<!-- Animated Banner -->
+<!-- Animated Design Banner -->
+<br>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20To%20My%20Profile!&fontSize=50&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20%7C%20AI/ML%20%7C%20DevOps&descAlignY=55&descSize=20" alt="header banner" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=120&lines=Welcome+To+My+Profile!+%F0%9F%9A%80;Full+Stack+%7C+AI%2FML+%7C+DevOps" alt="Welcome to my profile banner" />
 </div>
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=HarshaRockzz&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
@@ -12,20 +14,23 @@
 <br>
 
 <!-- Introduction Section -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="300" alt="Coding GIF" align="right" />
-
-  <div align="left">
-    <h2>👨‍💻 About Me</h2>
-    <ul>
-      <li>🔭 I’m currently working on cutting-edge <b>MERN, AI/ML, DevOps</b> and <b>MLOps</b> projects.</li>
-      <li>🌱 I’m mastering scalable architectures and diving deep into Machine Learning.</li>
-      <li>⚡ Fun fact: <i>"Training my AI to make dad jokes—results are still...in development!"</i></li>
-      <li>📫 How to reach me: <b><a href="mailto:mamidipaka2003@gmail.com">mamidipaka2003@gmail.com</a></b></li>
-      <li>🌐 Checkout my portfolio: <b><a href="https://harshavardhan-mamidipaka.vercel.app/">Portfolio Website</a></b></li>
-    </ul>
-  </div>
-</div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="70%" valign="top">
+      <h2>👨‍💻 About Me</h2>
+      <ul>
+        <li>🔭 I’m currently working on cutting-edge <b>MERN, AI/ML, DevOps</b> and <b>MLOps</b> projects.</li>
+        <li>🌱 I’m mastering scalable architectures and diving deep into Machine Learning.</li>
+        <li>⚡ Fun fact: <i>"Training my AI to make dad jokes—results are still...in development!"</i></li>
+        <li>📫 How to reach me: <b><a href="mailto:mamidipaka2003@gmail.com">mamidipaka2003@gmail.com</a></b></li>
+        <li>🌐 Checkout my portfolio: <b><a href="https://harshavardhan-mamidipaka.vercel.app/">Portfolio Website</a></b></li>
+      </ul>
+    </td>
+    <td width="30%" valign="center" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="250" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 <br clear="both">
 <br>
