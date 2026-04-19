@@ -1,27 +1,37 @@
-<!-- 🔥 Fully Animated Header Wave (Changes color & twinkles) 🔥 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=HARSHAVARDHAN'S%20UNIVERSE&fontSize=50&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Architect%20%7C%20AI%2FML%20Engineer%20%7C%20DevOps&descAlignY=55&descSize=20" width="100%"/>
-</p>
-
-<!-- 🏆 Animated GitHub Trophies 🏆 -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshaRockzz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
-</p>
-
-<!-- 💻 Animated Typing Console & Cyber Views 💻 -->
+<!-- Animated Banner -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarshaRockzz&label=Cyber+Views&color=00F0FF&style=flat-square" alt="Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20To%20My%20Profile!&fontSize=50&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20%7C%20AI/ML%20%7C%20DevOps&descAlignY=55&descSize=20" alt="header banner" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=HarshaRockzz&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
   <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+digital+universe+%F0%9F%8C%8C;Architecting+scalable+backend+systems+%E2%9A%99%EF%B8%8F;Training+Neural+Nets+%26+LLMs+%F0%9F%A7%A0;Deploying+with+Docker+%26+K8s+%E2%9B%B5;Let's+build+something+epic!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Harshavardhan;Crafting+Scalable+Architectures+%E2%9A%99%EF%B8%8F;Building+the+Future+with+AI+%F0%9F%A4%96;MERN+%26+DevOps+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-<br><br>
+<br>
 
-<!-- 🛠️ Animated Tech Stack Header 🛠️ -->
+<!-- Introduction Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF0066&center=true&vCenter=true&width=500&lines=⚙️+Technical+Arsenal;Languages+%26+Libraries" alt="Tech Stack Header" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="300" alt="Coding GIF" align="right" />
+
+  <div align="left">
+    <h2>👨‍💻 About Me</h2>
+    <ul>
+      <li>🔭 I’m currently working on cutting-edge <b>MERN, AI/ML, DevOps</b> and <b>MLOps</b> projects.</li>
+      <li>🌱 I’m mastering scalable architectures and diving deep into Machine Learning.</li>
+      <li>⚡ Fun fact: <i>"Training my AI to make dad jokes—results are still...in development!"</i></li>
+      <li>📫 How to reach me: <b><a href="mailto:mamidipaka2003@gmail.com">mamidipaka2003@gmail.com</a></b></li>
+      <li>🌐 Checkout my portfolio: <b><a href="https://harshavardhan-mamidipaka.vercel.app/">Portfolio Website</a></b></li>
+    </ul>
+  </div>
 </div>
 
+<br clear="both">
+<br>
+
+<!-- Skill Badges Table -->
+<h2>🛠️ Technical Arsenal</h2>
 <table border="0" cellpadding="10" cellspacing="5" width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -102,71 +112,48 @@
   </tr>
 </table>
 
-<br><br>
+<br>
 
-<!-- 📈 Animated Metrics Header 📈 -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=📈+Dynamic+Metrics;Code+Analytics" alt="Metrics Header" />
-</div>
-
+<!-- GitHub Analytics -->
+<h2 align="center">📈 GitHub Analytics</h2>
 <br>
 
 <div align="center">
-  <!-- GitHub Activity Graph: Animates the drawing of your commit lines! -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshaRockzz&theme=tokyo-night&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF&hide_border=true" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
-  <!-- Classic Profile Stats in ultra premium theme -->
   <img src="https://github-readme-stats.vercel.app/api?username=HarshaRockzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshaRockzz&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
-<br><br>
+<br>
 
-<!-- 🐍 Animated Snake Header 🐍 -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=🐍+Contribution+Snake;Live+Commit+Eats" alt="Snake Header" />
-</div>
-
+<!-- Complete Contribution Snake -->
+<h2 align="center">🐍 Contribution Graph Snake</h2>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshaRockzz/HarshaRockzz/output/github-contribution-grid-snake-dark.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshaRockzz/HarshaRockzz/output/github-contribution-grid-snake.svg?v=1">
-    <!-- Cache buster ?v=1 added to forcefully fetch latest output -->
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HarshaRockzz/HarshaRockzz/output/github-contribution-grid-snake.svg?v=1" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshaRockzz/HarshaRockzz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshaRockzz/HarshaRockzz/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HarshaRockzz/HarshaRockzz/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
-<br><br>
+<!-- Animated Line -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=footer" width="100%"/>
+</p>
 
-<!-- 🤖 Animated Tech Quote Generator 🤖 -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<br><br>
-
-<!-- 🤝 Connect Header 🤝 -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=9900FF&center=true&vCenter=true&width=500&lines=🤝+Let's+Connect;Reach+Out+To+Me" alt="Connect Header" />
-</div>
-
+<!-- Footer Connect -->
+<h2 align="center">🤝 Let's Connect</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/mamidipaka-harshavardhan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://harshavardhan-mamidipaka.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:mamidipaka2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
-<!-- 🔥 Animated Footer Wave 🔥 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer&animation=twinkling" width="100%"/>
+  <i>Made with ❤️ by Harshavardhan</i>
 </p>
