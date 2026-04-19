@@ -4,7 +4,7 @@
 <!--                    ANIMATED HEADER BANNER                     -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Harshavardhan&fontColor=00f5d4&fontSize=72&fontAlignY=40&desc=Full%20Stack%20%E2%9A%A1%20AI%2FML%20%E2%9A%A1%20DevOps%20Engineer&descAlignY=62&descSize=22&animation=fadeIn&stroke=00f5d4&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Harshavardhan&fontColor=ffffff&fontSize=72&fontAlignY=40&desc=Full%20Stack%20%E2%9A%A1%20AI%2FML%20%E2%9A%A1%20DevOps%20Engineer&descAlignY=62&descSize=22&animation=twinkling&stroke=00f5d4&strokeWidth=1" width="100%" />
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                    SOCIAL / PROFILE BADGES                    -->
