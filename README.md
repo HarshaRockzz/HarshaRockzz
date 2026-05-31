@@ -40,15 +40,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2000&pause=500&color=00F5D4&center=true&vCenter=true&width=400&height=35&lines=%F0%9F%94%B4+%F0%9F%9F%A1+%F0%9F%9F%A2+~%2Fwhoami;%F0%9F%94%B4+%F0%9F%9F%A1+%F0%9F%9F%A2+Initializing..." alt="Mac window" />
 </div>
 
-```sh
+```console
 $ whoami
 Harshavardhan Mamidipaka
 
 $ current_job
 Turning coffee into software
-
-$ current_bug
-Exists
 
 $ bug_status
 Reproduced
@@ -82,7 +79,7 @@ $ weaknesses
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=500&color=00F5D4&center=true&vCenter=true&width=400&height=35&lines=%F0%9F%94%B4+%F0%9F%9F%A1+%F0%9F%9F%A2+~%2Fmetadata;%F0%9F%94%B4+%F0%9F%9F%A1+%F0%9F%9F%A2+Fetching+Stats..." alt="Mac window" />
 </div>
 
-```sh
+```console
 $ relationship_status
 Committed to unfinished side projects
 
@@ -107,6 +104,11 @@ $ achievements
 - Lost
 - Tried again
 - Won
+
+$ currently_building
+🚀 Excuses for missed deadlines
+🧠 A tolerance for extreme caffeine
+⚡ Bugs disguised as features
 ```
 
 </td>
