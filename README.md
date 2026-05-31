@@ -32,6 +32,17 @@
 
 </div>
 
+
+---
+
+
+<div align="center">
+
+### 🧠 Current Mental State
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350"/>
+
+</div>
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
@@ -39,29 +50,63 @@
 ```yaml
 Name        : Harshavardhan Mamidipaka
 
-Sleep       : Optional
-Coffee      : Required
-Internet    : Critical Dependency
+Current Job :
+  Turning coffee into software
 
-Daily Plan  :
-  08:00 - Be productive
-  08:05 - Open YouTube
-  09:30 - Feel guilty
-  09:31 - Open IDE
-  11:00 - Debug
-  16:00 - Realize typo
-  16:01 - Become software engineer again
+Current Bug :
+  Exists
 
-Fun Fact    :
-  1] My laptop fan starts spinning
-  whenever I open Chrome.
+Bug Status  :
+  Reproduced
+  Investigated
+  Ignored
+  Reopened
 
-  2] I have a special ability
-  to break things
-  that were working perfectly.
+Life Cycle  :
+  Eat
+  Code
+  Sleep
+  Dream about code
+  Wake up
+  Debug dream
+
+Strengths   :
+  - Googling professionally
+  - Reading docs after things break
+  - Saying "Interesting..." before panic
+
+Weaknesses  :
+  - "One quick fix"
+  - "This should take 5 minutes"
+  - Side projects
 
 Relationship Status :
-  Committed to unfinished side projects.
+  Committed to unfinished side projects
+
+Fun Fact    :
+  My code doesn't always work.
+  But my confidence does.
+
+Emergency Fix Procedure :
+  1. Restart service
+  2. Restart laptop
+  3. Restart life
+
+Developer Facts :
+
+[✓] Fixed a bug by adding print statements
+[✓] Fixed another bug by removing print statements
+[✓] Opened Chrome with 47 tabs
+[✓] Closed Chrome accidentally
+[✓] Forgot what I was doing
+
+Achievements :
+
+- Argued with compiler
+- Lost
+- Tried again
+- Won
+
 ```
 
 </td>
