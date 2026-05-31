@@ -37,7 +37,6 @@
 <td width="55%" valign="top">
 
 ```yaml
-```yaml
 Name        : Harshavardhan Mamidipaka
 
 Sleep       : Optional
