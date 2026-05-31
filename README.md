@@ -37,25 +37,32 @@
 <td width="55%" valign="top">
 
 ```yaml
+```yaml
 Name        : Harshavardhan Mamidipaka
-Location    : Bengaluru, India 🇮🇳
 
-I Build     :
-  - Scalable backend systems & microservices
-  - ML-integrated distributed architectures
-  - Event-driven, high-throughput pipelines
-  - LLM / RAG / fine-tuned AI applications
+Sleep       : Optional
+Coffee      : Required
+Internet    : Critical Dependency
 
-I Love      :
-  - Low-latency systems & performance tuning
-  - Clean APIs and well-designed abstractions
-  - Turning complex problems into simple code
-  - Writing about tech on Medium
+Daily Plan  :
+  08:00 - Be productive
+  08:05 - Open YouTube
+  09:30 - Feel guilty
+  09:31 - Open IDE
+  11:00 - Debug
+  16:00 - Realize typo
+  16:01 - Become software engineer again
 
-Fun Fact    : "My AI learned to make dad jokes.
-               Evaluation metrics: Still pending."
+Fun Fact    :
+  1] My laptop fan starts spinning
+  whenever I open Chrome.
 
-Contact     : mamidipaka2003@gmail.com
+  2] I have a special ability
+  to break things
+  that were working perfectly.
+
+Relationship Status :
+  Committed to unfinished side projects.
 ```
 
 </td>
