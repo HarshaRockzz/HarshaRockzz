@@ -32,17 +32,6 @@
 
 </div>
 
-
----
-
-
-<div align="center">
-
-### 🧠 Current Mental State
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350"/>
-
-</div>
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
@@ -92,16 +81,7 @@ Emergency Fix Procedure :
   2. Restart laptop
   3. Restart life
 
-Developer Facts :
-
-[✓] Fixed a bug by adding print statements
-[✓] Fixed another bug by removing print statements
-[✓] Opened Chrome with 47 tabs
-[✓] Closed Chrome accidentally
-[✓] Forgot what I was doing
-
 Achievements :
-
 - Argued with compiler
 - Lost
 - Tried again
