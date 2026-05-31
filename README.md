@@ -34,65 +34,80 @@
 
 <table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-```yaml
-Name        : Harshavardhan Mamidipaka
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2000&pause=500&color=00F5D4&center=true&vCenter=true&width=400&height=35&lines=%F0%9F%94%B4+%F0%9F%9F%A1+%F0%9F%9F%A2+~%2Fwhoami;%F0%9F%94%B4+%F0%9F%9F%A1+%F0%9F%9F%A2+Initializing..." alt="Mac window" />
+</div>
 
-Current Job :
-  Turning coffee into software
+```sh
+$ whoami
+Harshavardhan Mamidipaka
 
-Current Bug :
-  Exists
+$ current_job
+Turning coffee into software
 
-Bug Status  :
-  Reproduced
-  Investigated
-  Ignored
-  Reopened
+$ current_bug
+Exists
 
-Life Cycle  :
-  Eat
-  Code
-  Sleep
-  Dream about code
-  Wake up
-  Debug dream
+$ bug_status
+Reproduced
+Investigated
+Ignored
+Reopened
 
-Strengths   :
-  - Googling professionally
-  - Reading docs after things break
-  - Saying "Interesting..." before panic
+$ life_cycle
+Eat
+Code
+Sleep
+Dream about code
+Wake up
+Debug dream
 
-Weaknesses  :
-  - "One quick fix"
-  - "This should take 5 minutes"
-  - Side projects
+$ strengths
+- Googling professionally
+- Reading docs after things break
+- Saying "Interesting..." before panic
 
-Relationship Status :
-  Committed to unfinished side projects
+$ weaknesses
+- "One quick fix"
+- "This should take 5 minutes"
+- Side projects
+```
 
-Fun Fact    :
-  My code doesn't always work.
-  But my confidence does.
+</td>
+<td width="50%" valign="top">
 
-Emergency Fix Procedure :
-  1. Restart service
-  2. Restart laptop
-  3. Restart life
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=500&color=00F5D4&center=true&vCenter=true&width=400&height=35&lines=%F0%9F%94%B4+%F0%9F%9F%A1+%F0%9F%9F%A2+~%2Fmetadata;%F0%9F%94%B4+%F0%9F%9F%A1+%F0%9F%9F%A2+Fetching+Stats..." alt="Mac window" />
+</div>
 
-Achievements :
+```sh
+$ relationship_status
+Committed to unfinished side projects
+
+$ fun_fact
+My code doesn't always work.
+But my confidence does.
+
+$ emergency_fix_procedure
+1. Restart service
+2. Restart laptop
+3. Restart life
+
+$ developer_facts
+[✓] Fixed a bug by adding print statements
+[✓] Fixed another bug by removing print statements
+[✓] Opened Chrome with 47 tabs
+[✓] Closed Chrome accidentally
+[✓] Forgot what I was doing
+
+$ achievements
 - Argued with compiler
 - Lost
 - Tried again
 - Won
-
 ```
-
-</td>
-<td width="45%" align="center" valign="middle">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360" alt="Coding"/>
 
 </td>
 </tr>
